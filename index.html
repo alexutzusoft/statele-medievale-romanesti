@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ro">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formarea Statelor Medievale Românești</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              sans: ['Inter', 'sans-serif'],
+              serif: ['Merriweather', 'serif'],
+            },
+            colors: {
+              brand: {
+                50: '#fcfaf8',
+                100: '#f6f1eb',
+                200: '#efe6db',
+                300: '#e3d0bb',
+                400: '#d4b496',
+                500: '#c59371',
+                600: '#b87c5b',
+                700: '#996248',
+                800: '#7e513f',
+                900: '#664336',
+              }
+            }
+          }
+        }
+      }
+    </script>
+    <style>
+      body {
+        background-color: #fcfaf8; /* brand-50 */
+        color: #1c1917; /* stone-900 */
+      }
+      .page-transition {
+        animation: fadeIn 0.4s ease-in-out;
+      }
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(5px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+
+      /* Hide scrollbar for Chrome, Safari and Opera */
+      ::-webkit-scrollbar {
+        display: none;
+      }
+
+      /* Hide scrollbar for IE, Edge and Firefox */
+      html, body {
+        -ms-overflow-style: none;  /* IE and Edge */
+        scrollbar-width: none;  /* Firefox */
+      }
+      
+      /* Ensure it applies to all elements that might scroll */
+      * {
+        -ms-overflow-style: none;
+        scrollbar-width: none;
+      }
+    </style>
+  <script type="importmap">
+{
+  "imports": {
+    "react-dom/": "https://esm.sh/react-dom@^19.2.3/",
+    "react/": "https://esm.sh/react@^19.2.3/",
+    "react": "https://esm.sh/react@^19.2.3",
+    "lucide-react": "https://esm.sh/lucide-react@^0.562.0",
+    "react-router-dom": "https://esm.sh/react-router-dom@^7.12.0"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+  <body>
+    <div id="root"></div>
+  <script type="module" src="/index.tsx"></script>
+</body>
+</html>
