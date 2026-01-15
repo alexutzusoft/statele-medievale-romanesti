@@ -10,7 +10,7 @@ export const Footer: React.FC = () => {
             <GraduationCap className="h-8 w-8 text-brand-400" />
             <div>
               <h3 className="text-lg font-serif font-bold text-white">Proiect Istorie</h3>
-              <p className="text-sm text-stone-400">Clasa a VII-a • Interdisciplinar</p>
+              <p className="text-sm text-stone-400">Clasa a VIII-a • Interdisciplinar</p>
             </div>
           </div>
           <div className="text-center md:text-right text-sm">

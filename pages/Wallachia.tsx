@@ -8,16 +8,16 @@ export const Wallachia: React.FC = () => {
         {/* Sidebar / Image Column */}
         <div className="lg:col-span-4 space-y-6">
           <div className="rounded-xl overflow-hidden shadow-lg bg-white border border-stone-100">
-            <img 
-              src="https://picsum.photos/800/1000?random=1" 
-              alt="Reprezentare Țara Românească" 
+            <img
+              src="https://picsum.photos/800/1000?random=1"
+              alt="Reprezentare Țara Românească"
               className="w-full h-auto object-cover"
             />
             <div className="p-4 bg-stone-50">
               <p className="text-sm text-stone-500 italic text-center">Basarab I Întemeietorul</p>
             </div>
           </div>
-          
+
           <div className="bg-brand-100 p-6 rounded-xl border border-brand-200">
             <h3 className="font-bold text-brand-900 mb-2 font-serif">Știai că?</h3>
             <p className="text-stone-800 text-sm">
@@ -31,14 +31,14 @@ export const Wallachia: React.FC = () => {
           <div>
             <h1 className="text-4xl lg:text-5xl font-serif font-bold text-stone-900 mb-6">Țara Românească</h1>
             <p className="text-xl text-stone-600 leading-relaxed">
-              Procesul de unificare a formațiunilor politice de la sud de Carpați s-a încheiat la începutul secolului al XIV-lea, sub conducerea voievodului <strong>Basarab I</strong>.
+              Întemeierea Țării Românești a fost pusă de cronici și legende pe seama descălecatului lui Negru Vodă din Făgăraș.
             </p>
           </div>
 
           <section>
             <h2 className="text-2xl font-serif font-bold text-brand-800 mb-4 pb-2 border-b border-stone-200">Basarab I și Întemeierea</h2>
             <p className="text-stone-700 leading-7 mb-4">
-              Basarab I (cca. 1310–1352) este considerat întemeietorul statului medieval Țara Românească. El a reușit să unească cnezatele și voievodatele existente (Seneslau, Litovoi) sub o singură autoritate centrală. Inițial vasal al regelui Ungariei, Carol Robert de Anjou, Basarab a căutat treptat independența țării.
+              Basarab I (1310?–1352) este primul domn al Țării Românești, întemeietor de țară și dinastie. El a eliberat teritoriile locuite de români care, politic sau economic, erau dependente de Hanatul Hoardei de Aur.
             </p>
           </section>
 

@@ -13,8 +13,7 @@ export const Home: React.FC = () => {
           <span className="text-brand-700">Medievale Românești</span>
         </h1>
         <p className="text-lg md:text-xl text-stone-600 max-w-3xl mx-auto leading-relaxed">
-          O călătorie prin istoria formării Țării Românești, Moldovei și organizării Transilvaniei în evul mediu. 
-          Descoperă factorii, domnitorii și evenimentele care au definit această epocă.
+          O prezentare a formarea statelor care, în 1859, vor deveni Principatele Române
         </p>
         
         <div className="flex flex-col sm:flex-row justify-center gap-4 mt-8">

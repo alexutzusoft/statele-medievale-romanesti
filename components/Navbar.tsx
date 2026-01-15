@@ -9,7 +9,7 @@ const navItems: NavItem[] = [
   { label: 'Țara Românească', path: '/tara-romaneasca' },
   { label: 'Moldova', path: '/moldova' },
   { label: 'Transilvania', path: '/transilvania' },
-  { label: 'Factori', path: '/factori' },
+  { label: 'Dobrogea', path: '/dobrogea' },
   { label: 'Domnitori', path: '/domnitori' },
   { label: 'Despre', path: '/despre' },
 ];
@@ -33,18 +33,17 @@ export const Navbar: React.FC = () => {
               <span className="font-serif font-bold text-xl text-stone-900">Proiect</span>
             </Link>
           </div>
-          
+
           {/* Desktop Menu */}
           <div className="hidden lg:flex items-center space-x-1">
             {navItems.map((item) => (
               <Link
                 key={item.path}
                 to={item.path}
-                className={`px-3 py-2 rounded-md text-sm font-medium transition-all duration-200 ${
-                  isActive(item.path)
+                className={`px-3 py-2 rounded-md text-sm font-medium transition-all duration-200 ${isActive(item.path)
                     ? 'bg-brand-100 text-brand-900 shadow-sm'
                     : 'text-stone-600 hover:text-brand-800 hover:bg-brand-50'
-                }`}
+                  }`}
               >
                 {item.label}
               </Link>
@@ -73,11 +72,10 @@ export const Navbar: React.FC = () => {
                 key={item.path}
                 to={item.path}
                 onClick={() => setIsOpen(false)}
-                className={`block px-3 py-2 rounded-md text-base font-medium ${
-                  isActive(item.path)
+                className={`block px-3 py-2 rounded-md text-base font-medium ${isActive(item.path)
                     ? 'bg-brand-100 text-brand-900'
                     : 'text-stone-600 hover:text-brand-900 hover:bg-brand-50'
-                }`}
+                  }`}
               >
                 {item.label}
               </Link>

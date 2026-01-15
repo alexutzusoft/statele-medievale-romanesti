@@ -1,0 +1,300 @@
+================================================================================
+           FORMAREA STATELOR MEDIEVALE ROMÂNEȘTI
+                     Website Content Document
+================================================================================
+
+This document contains all text content from the website, organized page by page.
+You can edit any text here, and the changes can be applied back to the website.
+
+================================================================================
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PAGE 1: HOME (ACASĂ)
+═══════════════════════════════════════════════════════════════════════════════
+
+--- HERO SECTION ---
+
+Title (Main Heading):
+Formarea Statelor Medievale Românești
+
+Subtitle/Introduction:
+O prezentare a formarea statelor care, în 1859, vor deveni Principatele Române
+
+Button Labels:
+- Context Istoric
+- Domnitori Importanți
+
+--- DECORATIVE SECTION ---
+
+Overlay Text:
+Secolele IX - XIV
+
+--- QUICK NAVIGATION CARDS ---
+
+Card 1: Țara Românească
+Heading: Țara Românească
+Description: De la descălecatul legendar la Basarab I și victoria de la Posada.
+
+Card 2: Moldova
+Heading: Moldova
+Description: Dragoș, Bogdan I și obținerea independenței față de Ungaria.
+
+Card 3: Transilvania
+Heading: Transilvania
+Description: Voievodatul autonom, colonizarea sașilor și secuilor, și relația cu Regatul Maghiar.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PAGE 2: DESPRE PROIECT (ABOUT)
+═══════════════════════════════════════════════════════════════════════════════
+
+Page Title:
+Despre Proiect
+
+Page Subtitle:
+Formarea Statelor Medievale Românești
+
+--- PROJECT INFORMATION ---
+
+Realizat de:
+[Ciapa Alexandru Ioan
+Rusu Dragoș Florin
+Palade Alin Constantin
+Arhire Dragoș Florin]
+
+Clasa:
+a VIII-a
+
+An Școlar:
+2025 - 2026
+
+--- FOOTER NOTE ---
+
+Acest site web a fost creat ca parte a unui proiect interdisciplinar de Istorie și Informatică, având ca scop prezentarea interactivă a procesului de formare a statelor medievale.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PAGE 3: CONTEXT ISTORIC
+═══════════════════════════════════════════════════════════════════════════════
+
+Page Title:
+Context Istoric
+
+Introduction:
+Întemeierea statelor medievale românești este rezultatul unui proces îndelungat asemănător cu cel din alte spații europene. Împrejurări externe nefavorabile au întârziat consituirea statelor românești și au menținut pluralitatea statală în întreg Evul Mediu. Organizarea societății medievale românești au avut ca nucleu satul. Transformările demografice și economico-sociale din sate au deschis evoluția spre structuri noi: țări,cnezate,voievodate. Acest proces poate fi definit prin formula ,,de la sat la stat"
+--- MAIN SECTIONS ---
+
+Section 1: Factori Externi
+-invazia mongolă din 1926 sub conducerea lui Batu-Han
+-criza politică din Ungaria unde caracterul electiv al tronului și disputele iscate astfel pentru tron ofereau un răgaz românilor
+-tendințele Ungariei și Poloniei de a înlătura dominația Hoardei de Aur din spațiul carpato-nistrean
+
+Section 2: Factori Interni
+-factorul demografic
+-dezvoltarea economică
+-factorul social
+-consolidarea formațiunilor prestatale menționate de statele vremii
+--- CRONOLOGIE ESENȚIALĂ ---
+
+Timeline Section Title:
+Cronologie Esențială
+
+Event 1: 1241
+Title: Marea Invazie Tătară
+Description: Distrugerea structurilor politice incipiente și încetinirea procesului de unificare statală.
+
+Event 2: 1247
+Title: Diploma Cavalerilor Ioaniți
+Description: Menționează primele formațiuni politice românești (cnezate și voievodate) la sud de Carpați.
+
+Event 3: 1301
+Title: Stingerea dinastiei Arpadiene
+Description: Criza dinastică în Ungaria slăbește autoritatea regală, permițând emanciparea românilor.
+
+Event 4: Sec. XIV
+Title: Centralizarea
+Description: Unificarea formațiunilor politice sub o singură autoritate centrală (Voievodul).
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PAGE 4: DOBROGEA
+═══════════════════════════════════════════════════════════════════════════════
+
+Page Title:
+Dobrogea. Alăturarea ei la Țara Românească
+Introduction:
+În secolul al X-lea,în Dobrogea se constată existența unor formațiuni prestatale,precum cele conduse de Gheorghe si jupan Dimitrie
+--- Evenimente (EXPANDABLE CARDS) ---
+
+ 1: Ocupația
+Teritoriul dintre Dunăre și Marea Neagră se afla sub stăpânire bizantină.
+
+ 2: Alexiada
+Alexiada este opera singurei femei istoric a Bizanțului. Anna Comnena menționează în Dobrogea de astăzi trei șefi locali de la sfârșitul secolului al XI-lea: Tatos,Sestlav si Satza
+
+ 3: Atestarea
+Între Mangalia și Varna este atestată la 1230 Țara Căvurnei, fiind recunoscută de Bizanț în 1325.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PAGE 5: MOLDOVA
+═══════════════════════════════════════════════════════════════════════════════
+
+Page Title:
+Moldova
+
+Introduction:
+Spre deosebire de celelalte țări românești, informațiile narative sunt reduse, dar descoperirile arheologice atestă existența unor formațiuni medievale alcătuite din mai multe uniuni de obști.
+
+--- MAIN CONTENT SECTIONS ---
+
+Section 1: Dragoș și Marca de Apărare
+Dragoș a condus o marcă de apărare, în nord-vestul Moldovei. Aceasta a fost întemeiată în urma unor expediții maghiare repetate între 1345-1354, Dragoș reprezentând autoritatea regală în zonă.
+
+Section 2: Bogdan I și Independența
+Adevăratul întemeietor al statului independent Moldova este Bogdan I (1359-1365). Nemulțumit de regele Ungariei, Bogdan a trecut munții din Maramureș în Moldova, i-a alungat pe urmașii lui Dragoș (Bâlc și Sas) și a proclamat independența statului.
+
+Quote:
+Un document maghiar din 1349 îl amintește ca "fost voievod necredincios al nostru".
+
+
+--- SIDEBAR CONTENT ---
+
+Image Caption:
+Cetatea de Scaun (reprezentare)
+
+Info Box: Legenda Zimbrului
+Title: Legenda Zimbrului
+Content: Legenda spune că Dragoș Vodă a ajuns în Moldova urmărind un zimbru (sau bour). Capul de bour a devenit stema istorică a Moldovei, simbolizând puterea și independența noului stat.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PAGE 6: ȚARA ROMÂNEASCĂ
+═══════════════════════════════════════════════════════════════════════════════
+
+Page Title:
+Țara Românească
+
+Introduction:
+Întemeierea Țării Românești a fost pusă de cronici și legende pe seama descălecatului lui Negru Vodă din Făgăraș.
+
+--- MAIN CONTENT SECTIONS ---
+
+Section 1: Basarab I și Întemeierea
+Basarab I (1310?–1352) este primul domn al Țării Românești, întemeietor de țară și dinastie. El a eliberat teritoriile locuite de români care, politic sau economic, erau dependente de Hanatul Hoardei de Aur.
+
+Section 2: Bătălia de la Posada (1330)
+
+Quote from Chronicle:
+"Și s-a făcut o mare pieire a oștirii ungurești..."
+- Cronica Pictată de la Viena
+
+Description:
+Momentul decisiv al independenței a fost Bătălia de la Posada (9-12 noiembrie 1330). Regele Ungariei a invadat țara pentru a-l pedepsi pe Basarab. Într-o trecătoare îngustă din munți, oastea valahă a surprins armata maghiară, obținând o victorie zdrobitoare. Această victorie a consfințit independența statului.
+
+Section 3: Consolidarea Statului
+Urmașii lui Basarab, precum Nicolae Alexandru și Vladislav Vlaicu, au continuat procesul de consolidare:
+
+- Au înființat Mitropolia Țării Românești (1359), asigurând recunoașterea religioasă și politică internațională.
+- Au bătut primii bani proprii, semn de suveranitate economică.
+- Au organizat sfatul domnesc și cancelaria domnească.
+
+--- SIDEBAR CONTENT ---
+
+Image Caption:
+Basarab I Întemeietorul
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PAGE 7: TRANSILVANIA
+═══════════════════════════════════════════════════════════════════════════════
+
+Page Title:
+Transilvania
+
+Page Subtitle:
+Voievodat autonom sub suzeranitatea Regatului Maghiar
+
+--- MAIN CONCEPT SECTION ---
+
+Section 1: Organizarea Politică: Voievodatul
+Spre deosebire de Țara Românească și Moldova, Transilvania a fost cucerită treptat de maghiari între secolele XI-XIII. Totuși, datorită rezistenței locale, ea și-a păstrat o autonomie internă puternică, fiind organizată ca voievodat. La 1111 este prezentat în documente un ,,Mercurius princep Ultrasylvanus", dar la 1176 apare menționat Leustachius ca voievod, demonstrând ca forma de organizare politică autohtonă a fost menținută.
+
+Voievodul Transilvaniei era numit de regele Ungariei, dar avea puteri administrative, judecătorești și militare proprii, comportându-se adesea ca un veritabil suveran.
+
+--- POPULATIONS AND ORGANIZATION ---
+
+Section Title:
+Populații și Organizare
+
+Group 1: Românii
+În Gesta Hungarorum, scrisă de regele maghiar Béla (probabil al III-lea), românii sunt menționați ca fiind cei mai vechi locuitori ai Transilvaniei.
+
+Group 2: Sașii
+Au fost colonizați în secolele XII-XIII cu scopul de a stimula dezvoltarea economică din regiune.
+
+Group 3: Secuii
+Au participat împreună cu maghiarii la cucerirea Pannoniei (898-899) și apoi la expediția împotriva lui Menumorut.
+
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PAGE 8: DOMNITORI ȘI VOIEVOZI
+═══════════════════════════════════════════════════════════════════════════════
+
+Page Title:
+Domnitori și Voievozi
+
+Introduction:
+Personalități istorice marcante care au contribuit la formarea, independența și consolidarea statelor medievale românești.
+
+--- RULERS (CARDS) ---
+
+Ruler 1:
+Name: Basarab I
+Years: cca. 1310 - 1352
+Region: Țara Românească
+Description: Întemeietorul Țării Românești. A câștigat independența statului prin victoria de la Posada (1330) împotriva regelui Ungariei Carol Robert de Anjou.
+
+Ruler 2:
+Name: Bogdan I
+Years: 1359 - 1365
+Region: Moldova
+Description: Voievod maramureșean care a trecut Carpații, a înlăturat suzeranitatea maghiară și a întemeiat statul independent Moldova.
+
+Ruler 3:
+Name: Mircea cel Bătrân
+Years: 1386 - 1418
+Region: Țara Românească
+Description: Domnitor sub care Țara Românească a ajuns la cea mai mare întindere teritorială. A apărat țara împotriva Imperiului Otoman (Rovine, 1395).
+
+Ruler 4:
+Name: Gelu (Gylas)
+Years: Sec. X
+Region: Transilvania
+Description: Voievod român al unei formațiuni politice din Transilvania, menționat în cronica Gesta Hungarorum ca rezistând triburilor maghiare.
+
+Ruler 5:
+Name: Roman I
+Years: cca. 1391 - 1394
+Region: Moldova
+Description: A finalizat unificarea teritorială a Moldovei, extinzând statul până la Marea Neagră și la gurile Dunării.
+
+Ruler 6:
+Name: Iancu de Hunedoara
+Years: 1441 - 1456
+Region: Transilvania
+Description: Voievod al Transilvaniei și regent al Ungariei. Mare comandant militar, a oprit expansiunea otomană la Belgrad (1456).
+
+
+═══════════════════════════════════════════════════════════════════════════════
+END OF WEBSITE CONTENT
+═══════════════════════════════════════════════════════════════════════════════
+
+NOTES FOR EDITING:
+- Keep the structure as is (page divisions, sections, etc.)
+- Edit any text content freely
+- Maintain the labels (Title:, Description:, etc.) so changes can be mapped back
+- Don't remove the page separators (the === lines)
+- When ready, provide the edited version back and it will be applied to the website

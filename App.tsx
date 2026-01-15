@@ -6,7 +6,7 @@ import { Context } from './pages/Context';
 import { Wallachia } from './pages/Wallachia';
 import { Moldova } from './pages/Moldova';
 import { Transylvania } from './pages/Transylvania';
-import { Factors } from './pages/Factors';
+import { Dobrogea } from './pages/Dobrogea';
 import { Rulers } from './pages/Rulers';
 import { About } from './pages/About';
 
@@ -20,7 +20,7 @@ function App() {
           <Route path="/tara-romaneasca" element={<Wallachia />} />
           <Route path="/moldova" element={<Moldova />} />
           <Route path="/transilvania" element={<Transylvania />} />
-          <Route path="/factori" element={<Factors />} />
+          <Route path="/dobrogea" element={<Dobrogea />} />
           <Route path="/domnitori" element={<Rulers />} />
           <Route path="/despre" element={<About />} />
         </Routes>
