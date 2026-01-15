@@ -15,7 +15,7 @@ export const Home: React.FC = () => {
         <p className="text-lg md:text-xl text-stone-600 max-w-3xl mx-auto leading-relaxed">
           O prezentare a formarea statelor care, în 1859, vor deveni Principatele Române
         </p>
-        
+
         <div className="flex flex-col sm:flex-row justify-center gap-4 mt-8">
           <Link to="/context" className="inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-brand-700 hover:bg-brand-800 transition-colors shadow-sm">
             Context Istoric
@@ -29,9 +29,9 @@ export const Home: React.FC = () => {
 
       {/* Decorative Image Area */}
       <div className="w-full h-64 md:h-96 rounded-xl overflow-hidden shadow-xl mb-16 relative group">
-        <img 
-          src="https://picsum.photos/1200/600?grayscale&blur=2" 
-          alt="Medieval Landscape" 
+        <img
+          src="https://preview.redd.it/eu5s-new-loading-screens-v0-euibfjkud2yf1.png?width=1080&crop=smart&auto=webp&s=fc7769d536ab5ee9c377592e015e92a79b52b1ad"
+          alt="Medieval Landscape"
           className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
         />
         <div className="absolute inset-0 bg-stone-900/30 flex items-center justify-center">

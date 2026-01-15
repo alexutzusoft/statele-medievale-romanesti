@@ -37,7 +37,7 @@ export const Moldova: React.FC = () => {
         <div className="lg:col-span-4 space-y-6 order-1 lg:order-2">
           <div className="rounded-xl overflow-hidden shadow-lg bg-white border border-stone-100">
             <img
-              src="https://picsum.photos/800/1000?random=2"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Szucs%C3%A1va%2C_Cetatea_de_Scaun_-_l%C3%A9gi_fot%C3%B3.jpg/900px-Szucs%C3%A1va%2C_Cetatea_de_Scaun_-_l%C3%A9gi_fot%C3%B3.jpg"
               alt="Cetatea de Scaun a Sucevei (reprezentare)"
               className="w-full h-auto object-cover"
             />

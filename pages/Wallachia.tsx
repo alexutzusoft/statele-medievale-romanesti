@@ -9,7 +9,7 @@ export const Wallachia: React.FC = () => {
         <div className="lg:col-span-4 space-y-6">
           <div className="rounded-xl overflow-hidden shadow-lg bg-white border border-stone-100">
             <img
-              src="https://picsum.photos/800/1000?random=1"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Basarab_I_of_Wallachia.jpg/500px-Basarab_I_of_Wallachia.jpg"
               alt="Reprezentare Țara Românească"
               className="w-full h-auto object-cover"
             />
