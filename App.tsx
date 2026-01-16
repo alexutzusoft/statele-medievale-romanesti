@@ -7,7 +7,6 @@ import { Wallachia } from './pages/Wallachia';
 import { Moldova } from './pages/Moldova';
 import { Transylvania } from './pages/Transylvania';
 import { Dobrogea } from './pages/Dobrogea';
-import { Rulers } from './pages/Rulers';
 import { About } from './pages/About';
 
 function App() {
