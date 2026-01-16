@@ -21,9 +21,6 @@ export const Home: React.FC = () => {
             Context Istoric
             <ArrowRight className="ml-2 h-5 w-5" />
           </Link>
-          <Link to="/domnitori" className="inline-flex items-center justify-center px-6 py-3 border border-stone-300 text-base font-medium rounded-md text-stone-700 bg-white hover:bg-stone-50 transition-colors shadow-sm">
-            Domnitori Importanți
-          </Link>
         </div>
       </div>
 
