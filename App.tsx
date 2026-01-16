@@ -4,6 +4,7 @@ import { Layout } from './components/Layout';
 import { Home } from './pages/Home';
 import { Context } from './pages/Context';
 import { Wallachia } from './pages/Wallachia';
+import { Rulers } from './pages/Rulers';
 import { Moldova } from './pages/Moldova';
 import { Transylvania } from './pages/Transylvania';
 import { Dobrogea } from './pages/Dobrogea';
