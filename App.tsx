@@ -8,6 +8,7 @@ import { Moldova } from './pages/Moldova';
 import { Transylvania } from './pages/Transylvania';
 import { Dobrogea } from './pages/Dobrogea';
 import { About } from './pages/About';
+import { Rulers } from './pages/Rulers'; // <-- ADDED import
 
 function App() {
   return (
