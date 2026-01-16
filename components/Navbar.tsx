@@ -10,7 +10,6 @@ const navItems: NavItem[] = [
   { label: 'Moldova', path: '/moldova' },
   { label: 'Transilvania', path: '/transilvania' },
   { label: 'Dobrogea', path: '/dobrogea' },
-  { label: 'Domnitori', path: '/domnitori' },
   { label: 'Despre', path: '/despre' },
 ];
 
