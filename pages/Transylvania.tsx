@@ -56,14 +56,6 @@ export const Transylvania: React.FC = () => {
             </div>
           </div>
         </section>
-
-        {/* Comparison/Integration */}
-        <section className="bg-brand-50 p-8 rounded-2xl border border-brand-100">
-          <h2 className="text-2xl font-serif font-bold text-brand-900 mb-4">Relația cu Regatul Ungariei</h2>
-          <p className="text-stone-700 leading-relaxed">
-            Deși parte a Coroanei Sfântului Ștefan, Transilvania a fost întotdeauna un corp distinct ("Regnum Transilvaniae"). Voievozii transilvăneni, precum <strong>Roland Borșa</strong> sau <strong>Ladislau Kán</strong>, și-au asumat în diverse momente o autoritate aproape independentă, sfidând puterea centrală maghiară, mai ales în perioadele de criză dinastică.
-          </p>
-        </section>
       </div>
     </PageTransition>
   );
